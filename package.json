@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-strunc",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Round each element in a single-precision floating-point strided array toward zero.",
   "license": "Apache-2.0",
   "author": {
