@@ -42,17 +42,17 @@
   },
   "dependencies": {
     "@stdlib/math-base-special-truncf": "^0.1.0",
-    "@stdlib/strided-base-smap": "^0.1.0",
-    "@stdlib/strided-napi-smap": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0",
-    "@stdlib/utils-library-manifest": "^0.1.0",
-    "@stdlib/utils-try-require": "^0.1.0"
+    "@stdlib/strided-base-smap": "^0.1.1",
+    "@stdlib/strided-napi-smap": "^0.1.1",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
+    "@stdlib/utils-library-manifest": "^0.1.1",
+    "@stdlib/utils-try-require": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/array-float32": "^0.1.0",
-    "@stdlib/assert-is-browser": "^0.1.0",
+    "@stdlib/assert-is-browser": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/math-base-assert-is-nanf": "^0.1.0",
+    "@stdlib/math-base-assert-is-nanf": "^0.1.1",
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/random-base-uniform": "^0.1.0",
     "proxyquire": "^2.0.0",
