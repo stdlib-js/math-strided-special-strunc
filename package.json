@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-strunc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Round each element in a single-precision floating-point strided array toward zero.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-truncf": "^0.1.0",
+    "@stdlib/math-base-special-truncf": "^0.1.1",
     "@stdlib/strided-base-smap": "^0.1.1",
     "@stdlib/strided-napi-smap": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
@@ -49,7 +49,7 @@
     "@stdlib/utils-try-require": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/array-float32": "^0.1.0",
+    "@stdlib/array-float32": "^0.1.1",
     "@stdlib/assert-is-browser": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/math-base-assert-is-nanf": "^0.1.1",
