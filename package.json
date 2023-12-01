@@ -51,7 +51,7 @@
   "devDependencies": {
     "@stdlib/array-float32": "^0.1.1",
     "@stdlib/assert-is-browser": "^0.1.1",
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/math-base-assert-is-nanf": "^0.1.1",
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/random-base-uniform": "^0.1.0",
