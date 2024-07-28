@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import strunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-strunc@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-strided-special-strunc/tags). For example,
+
+```javascript
 import strunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-strunc@v0.2.2-deno/mod.js';
 ```
 
@@ -152,7 +157,7 @@ strunc.ndarray( 3, x, 2, 1, y, -1, y.length-1 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import strunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-strunc@v0.2.2-deno/mod.js';
+import strunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-strunc@deno/mod.js';
 
 var x = new Float32Array( 10 );
 var y = new Float32Array( 10 );
